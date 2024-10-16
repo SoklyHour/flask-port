@@ -1,6 +1,4 @@
-# Author: Sokly Hour
-# Class: INF601 - Advanced Programming in Python
-# Miniproject3: Portfolio Website with Contact Form using Flask
+
 
 from flask import Flask
 from flask_sqlalchemy import SQLAlchemy
